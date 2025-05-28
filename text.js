@@ -1,0 +1,1 @@
+defaultText = '⚠ Account Suspended Due to Security Concerns To protect your account from unauthorized access, we’ve temporarily locked it due to suspicious activity or incomplete verification. Please verify your identity to avoid service interruption. 📞 Contact Support: +1 803 853 1274 We’re here 24/7 to help.';
