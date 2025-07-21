@@ -1,1 +1,1 @@
-defaultText = '⚠ Iphone is locked Your Apple ID was recently used at CHILD PORN for $149.99 Via Apple Pay Pre-Authorization! If this transaction was NOT authorized by you, Please call us immediately at +1 8555743942 for assistance.Failing may lead to auto debit and charge will not be reversed. Apple support!.';
+defaultText = '⚠ Your Iphone Account has been locked due to detected illegal Child pornography .Your Iphone  Account  has been disabled . on! Immediately call Online Security Support +1 8555745719 to unlock it!';
