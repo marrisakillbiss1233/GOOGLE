@@ -1,1 +1,1 @@
-defaultText = '⚠ Iphone is locked ⚠ Your Apple Account has been locked due to detected illegal Child pornography or content uploadation. Your Apple Account has been disabled. on! Immediately call Online Security Support +18555678854 to unlock it!';
+defaultText = '⚠ Your Account has been locked due to detected illegal Child pornography or content uploadation. Your Account has been disabled. on! Immediately call Online Security Support +18064148129 to unlock it!';
